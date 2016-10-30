@@ -153,15 +153,15 @@ class FormatShowObject{
 }
 
 
-$formatshowobject = new FormatShowObject();
-
-
-$formatshowobject->show(
-	array(
-		1,
-		'aaa' => array( "ddss" => array( 777,4=>array("aboc","yinhua"),6=>4444 ), 5, 'ddd' ),
-		"last"=>array(1,2)
-
-	)
-);
+//$formatshowobject = new FormatShowObject();
+//
+//
+//$formatshowobject->show(
+//	array(
+//		1,
+//		'aaa' => array( "ddss" => array( 777,4=>array("aboc","yinhua"),6=>4444 ), 5, 'ddd' ),
+//		"last"=>array(1,2)
+//
+//	)
+//);
 
