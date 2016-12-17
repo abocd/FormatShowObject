@@ -1,0 +1,12 @@
+{
+    "name": "aboc/formatshowobject",
+    "description":"格式化输出显示对象、数组的维度，便于定位",
+    "type": "php",
+    "authors": [
+        {
+            "name": "aboc",
+            "email": "abocd@qq.com"
+        }
+    ],
+    "require": {}
+}
